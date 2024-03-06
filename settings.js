@@ -1,5 +1,5 @@
 const fs = require('fs')
 
-global.owner = ["6283893353148"]
-global.push_kontak_delay = 5000 //5 detik, 6000 = 6 detik
-global.pairingNumber = "6283893353148"
+global.owner = ["6282129006673"]
+global.push_kontak_delay = 7000 //7 detik, 8000 = 8 detik
+global.pairingNumber = "6282129006673"
